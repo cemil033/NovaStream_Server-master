@@ -1,0 +1,11 @@
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\bin\Debug\net9.0\NovaStream.Domain.deps.json
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\bin\Debug\net9.0\NovaStream.Domain.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\bin\Debug\net9.0\NovaStream.Domain.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\NovaStream.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\NovaStream.Domain.AssemblyInfoInputs.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\NovaStream.Domain.AssemblyInfo.cs
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\NovaStream.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\NovaStream.Domain.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\refint\NovaStream.Domain.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\NovaStream.Domain.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Domain\obj\Debug\net9.0\ref\NovaStream.Domain.dll

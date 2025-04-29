@@ -1,0 +1,17 @@
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Infrastructure.deps.json
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Infrastructure.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Infrastructure.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Application.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Domain.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Application.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\bin\Debug\net9.0\NovaStream.Domain.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.AssemblyInfo.cs
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStre.78731875.Up2Date
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\refint\NovaStream.Infrastructure.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\NovaStream.Infrastructure.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Infrastructure\NovaStream.Infrastructure\obj\Debug\net9.0\ref\NovaStream.Infrastructure.dll

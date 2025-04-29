@@ -1,0 +1,15 @@
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\bin\Debug\net9.0\NovaStream.Application.deps.json
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\bin\Debug\net9.0\NovaStream.Application.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\bin\Debug\net9.0\NovaStream.Application.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\bin\Debug\net9.0\NovaStream.Domain.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\bin\Debug\net9.0\NovaStream.Domain.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.csproj.AssemblyReference.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.AssemblyInfoInputs.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.AssemblyInfo.cs
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStre.2B0FB83A.Up2Date
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\refint\NovaStream.Application.dll
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\NovaStream.Application.pdb
+C:\Users\Bakvent\Desktop\project\NovaStream_Server-master\Core\NovaStream.Applicaton\obj\Debug\net9.0\ref\NovaStream.Application.dll

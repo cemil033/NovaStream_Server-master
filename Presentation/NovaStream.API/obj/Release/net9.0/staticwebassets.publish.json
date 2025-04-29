@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3l8p3jMdxFFvtfNO7zTAdTqdvua17cIHPFSOd5POiQw=",
+  "Source": "NovaStream.API",
+  "BasePath": "_content/NovaStream.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

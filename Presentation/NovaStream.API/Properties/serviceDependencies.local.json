@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: NoveStream, Tenant: Default Directory (cemiw033outlook.onmicrosoft.com - Microsoft Entra ID)",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": null,
+      "type": "identityapp.secretStore",
+      "connectionId": "AzureAD:ClientSecret"
+    },
+    "secrets1": {
+      "secretStore": null,
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/NovaStreamAPIvault",
+      "type": "secrets.keyVault",
+      "connectionId": "VaultUri",
+      "dynamicId": null
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/DefaultConnection_427CE93105",
+      "secretStore": null,
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/novastreamerver/databases/NovaStreamDB",
+      "type": "mssql.azure",
+      "connectionId": "DefaultConnection"
+    }
+  }
+}

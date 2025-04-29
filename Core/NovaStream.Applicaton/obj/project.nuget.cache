@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vkpo+MPnJRU=",
+  "success": true,
+  "projectFilePath": "D:\\Təkliflər\\LAYİHE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\NovaStream.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bakvent\\.nuget\\packages\\awssdk.core\\3.7.400.65\\awssdk.core.3.7.400.65.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\awssdk.s3\\3.7.410.7\\awssdk.s3.3.7.410.7.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\system.runtime.caching\\9.0.0\\system.runtime.caching.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bakvent\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

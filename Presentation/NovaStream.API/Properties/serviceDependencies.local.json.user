@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "secrets.user": {
+      "restored": true,
+      "restoreTime": "2024-12-19T09:40:15.5467096Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-12-19T09:40:47.0052425Z"
+    },
+    "identityapp1": {
+      "restored": false,
+      "restoreTime": "2024-12-19T09:40:15.5467096Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-12-19T09:20:39.5234239Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "098532d9-58f6-4759-835e-a69292656509"
+    },
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "FinalProject"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Novastream"
+    },
+    "secrets1.resourceGroupLocation": {
+      "Name": "secrets1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "germanywestcentral"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "098532d9-58f6-4759-835e-a69292656509"
+    },
+    "mssql1.serviceConnectorResourceGroupName": {
+      "Name": "mssql1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Novastream"
+    }
+  }
+}
