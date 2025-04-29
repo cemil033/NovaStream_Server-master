@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaStream.Admin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fcfd3fa3de16762270818054460efe55ecb3073")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6cfff9f59d518fabf690a1ee72b94399a34a353")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaStream.Admin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaStream.Admin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

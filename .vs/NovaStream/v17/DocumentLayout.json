@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2DEF059-629B-4568-AFBE-CFAE07EB746A}|Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2DEF059-629B-4568-AFBE-CFAE07EB746A}|Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj|solutionrelative:presentation\\novastream.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EB6414B-1D1A-4268-B65E-666B6D542245}|Presentation\\NovaStream.API\\NovaStream.API.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8EB6414B-1D1A-4268-B65E-666B6D542245}|Presentation\\NovaStream.API\\NovaStream.API.csproj|solutionrelative:presentation\\novastream.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB6414B-1D1A-4268-B65E-666B6D542245}|Presentation\\NovaStream.API\\NovaStream.API.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EB6414B-1D1A-4268-B65E-666B6D542245}|Presentation\\NovaStream.API\\NovaStream.API.csproj|solutionrelative:presentation\\novastream.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EB6414B-1D1A-4268-B65E-666B6D542245}|Presentation\\NovaStream.API\\NovaStream.API.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.api\\controllers\\serialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -361,10 +369,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2DEF059-629B-4568-AFBE-CFAE07EB746A}|Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.admin\\viewmodels\\dialoghosts\\addactorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2DEF059-629B-4568-AFBE-CFAE07EB746A}|Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj|solutionrelative:presentation\\novastream.admin\\viewmodels\\dialoghosts\\addactorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DEF059-629B-4568-AFBE-CFAE07EB746A}|Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F2DEF059-629B-4568-AFBE-CFAE07EB746A}|Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj|solutionrelative:presentation\\novastream.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EB6414B-1D1A-4268-B65E-666B6D542245}|Presentation\\NovaStream.API\\NovaStream.API.csproj|d:\\t\u0259klifl\u0259r\\lay\u0130he\\project\\novastream_server-master\\presentation\\novastream.api\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -882,7 +886,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -898,19 +902,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddMovieSubtitleViewModel.cs",
-              "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
-              "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
-              "ToolTip": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
-              "RelativeToolTip": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAArwDgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T05:37:41.145Z"
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\appsettings.Development.json",
+              "ToolTip": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\NovaStream.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T10:00:33.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SerialController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\SerialController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\SerialController.cs",
@@ -918,12 +923,11 @@
               "RelativeToolTip": "Presentation\\NovaStream.API\\Controllers\\SerialController.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAswEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T10:30:36.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T10:30:36.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EpisodeDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\EpisodeDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\EpisodeDto.cs",
@@ -935,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BaseEpisodeDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseEpisodeDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseEpisodeDto.cs",
@@ -947,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EpisodeProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\EpisodeProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\EpisodeProfile.cs",
@@ -959,20 +963,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\appsettings.json",
               "ToolTip": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\appsettings.json",
               "RelativeToolTip": "Presentation\\NovaStream.API\\appsettings.json",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-09T17:52:22.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\appsettings.json",
+              "ToolTip": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\appsettings.json",
+              "RelativeToolTip": "Presentation\\NovaStream.Admin\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T16:45:14.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddMovieSubtitleViewModel.cs",
+              "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
+              "ToolTip": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
+              "RelativeToolTip": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieSubtitleViewModel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAArwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:37:41.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BlobStorageUploadProgress.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Utilities\\BlobStorageUploadProgress.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Utilities\\BlobStorageUploadProgress.cs",
@@ -984,7 +1013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IAWSStorageManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\IAWSStorageManager.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\IAWSStorageManager.cs",
@@ -996,7 +1025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IStorageManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\IStorageManager.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\IStorageManager.cs",
@@ -1008,7 +1037,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MessageBoxService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Services\\MessageBoxService.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Services\\MessageBoxService.cs",
@@ -1020,7 +1049,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FileDialogService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Services\\FileDialogService.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Services\\FileDialogService.cs",
@@ -1032,7 +1061,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AddMovieViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieViewModel.cs",
@@ -1044,7 +1073,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "InternetService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Services\\InternetService.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Services\\InternetService.cs",
@@ -1056,7 +1085,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AmazonWebServicesOptions.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Utilities\\AmazonWebServicesOptions.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Utilities\\AmazonWebServicesOptions.cs",
@@ -1068,7 +1097,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Services\\NavigationService.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Services\\NavigationService.cs",
@@ -1080,7 +1109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BlobStorageOptions.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Utilities\\BlobStorageOptions.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Utilities\\BlobStorageOptions.cs",
@@ -1092,7 +1121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "AWSStorageManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\AWSStorageManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\AWSStorageManager.cs",
@@ -1104,7 +1133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "BlobStorageManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\BlobStorageManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\BlobStorageManager.cs",
@@ -1116,7 +1145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "EpisodeSubtitleViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\EpisodeSubtitleViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\EpisodeSubtitleViewModel.cs",
@@ -1128,7 +1157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "MovieSubtitleViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\MovieSubtitleViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\MovieSubtitleViewModel.cs",
@@ -1140,7 +1169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "CultureMiddleware.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Middlewares\\CultureMiddleware.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Middlewares\\CultureMiddleware.cs",
@@ -1152,7 +1181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Season.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Season.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Season.cs",
@@ -1164,7 +1193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "UserExistsMiddleware.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Middlewares\\UserExistsMiddleware.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Middlewares\\UserExistsMiddleware.cs",
@@ -1176,7 +1205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Program.cs",
@@ -1188,7 +1217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "SoonController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\SoonController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\SoonController.cs",
@@ -1200,7 +1229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "MovieViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\MovieViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\MovieViewModel.cs",
@@ -1212,7 +1241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\AccountController.cs",
@@ -1224,7 +1253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "SerialDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\SerialDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\SerialDto.cs",
@@ -1236,7 +1265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Serial.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Serial.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Serial.cs",
@@ -1248,7 +1277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "UserManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Services\\UserManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Services\\UserManager.cs",
@@ -1260,7 +1289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "SoonGenre.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SoonGenre.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SoonGenre.cs",
@@ -1272,7 +1301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "HomeDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\HomeDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\HomeDto.cs",
@@ -1284,7 +1313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "MovieController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\MovieController.cs",
@@ -1296,7 +1325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "MovieDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\MovieDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\MovieDto.cs",
@@ -1308,7 +1337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "MovieHomeDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\MovieHomeDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\MovieHomeDto.cs",
@@ -1320,7 +1349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "BaseVideoDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseVideoDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseVideoDto.cs",
@@ -1332,7 +1361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "GenreDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\GenreDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\GenreDto.cs",
@@ -1344,7 +1373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "DirectorDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\DirectorDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\DirectorDto.cs",
@@ -1356,7 +1385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "BasePersonDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BasePersonDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BasePersonDto.cs",
@@ -1368,7 +1397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "BaseGenreDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseGenreDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseGenreDto.cs",
@@ -1380,7 +1409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "SerialProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\SerialProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\SerialProfile.cs",
@@ -1392,7 +1421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "MovieProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\MovieProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\MovieProfile.cs",
@@ -1404,7 +1433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ContainerRegistrationService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\ContainerRegistrationService.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\ContainerRegistrationService.cs",
@@ -1416,7 +1445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "SoonDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\SoonDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\SoonDto.cs",
@@ -1428,7 +1457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "MovieSubtitle.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieSubtitle.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieSubtitle.cs",
@@ -1440,7 +1469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "EpisodeSubtitle.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\EpisodeSubtitle.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\EpisodeSubtitle.cs",
@@ -1452,7 +1481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "BaseSoonDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseSoonDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseSoonDto.cs",
@@ -1464,7 +1493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\UserDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\UserDto.cs",
@@ -1476,7 +1505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "SubtitleDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\SubtitleDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\SubtitleDto.cs",
@@ -1488,7 +1517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "BaseSubtitleDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseSubtitleDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseSubtitleDto.cs",
@@ -1500,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "SubtitleProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\SubtitleProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\SubtitleProfile.cs",
@@ -1512,7 +1541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "SoonProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\SoonProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\SoonProfile.cs",
@@ -1524,7 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "GenreProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\GenreProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\GenreProfile.cs",
@@ -1536,7 +1565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "ActorDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\ActorDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\ActorDto.cs",
@@ -1548,7 +1577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Abstract\\Person.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Abstract\\Person.cs",
@@ -1560,7 +1589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Movie.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Movie.cs",
@@ -1572,7 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "AddGenreViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddGenreViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddGenreViewModel.cs",
@@ -1584,7 +1613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Contexts\\AppDbContext.cs",
@@ -1596,7 +1625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "GenreController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\GenreController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\GenreController.cs",
@@ -1608,7 +1637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "Actor.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Actor.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Actor.cs",
@@ -1620,7 +1649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Genre.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Genre.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Genre.cs",
@@ -1632,7 +1661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -1644,7 +1673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "Video.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Abstract\\Video.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Abstract\\Video.cs",
@@ -1656,7 +1685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "MovieGenre.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieGenre.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieGenre.cs",
@@ -1668,7 +1697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "MovieActorConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieActorConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieActorConfiguration.cs",
@@ -1680,7 +1709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "MovieGenreConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieGenreConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieGenreConfiguration.cs",
@@ -1692,7 +1721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "MovieActor.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieActor.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieActor.cs",
@@ -1704,7 +1733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "ContainerRegistrationService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Services\\ContainerRegistrationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Services\\ContainerRegistrationService.cs",
@@ -1716,7 +1745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "ActorConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\ActorConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\ActorConfiguration.cs",
@@ -1728,7 +1757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "DirectorConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\DirectorConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\DirectorConfiguration.cs",
@@ -1740,7 +1769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "GenreConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\GenreConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\GenreConfiguration.cs",
@@ -1752,7 +1781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "ContainerRegistrationService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\ContainerRegistrationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\ContainerRegistrationService.cs",
@@ -1764,7 +1793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "ActorProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\ActorProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\ActorProfile.cs",
@@ -1776,7 +1805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "DirectorProfile.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\MapsterProfiles\\DirectorProfile.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\MapsterProfiles\\DirectorProfile.cs",
@@ -1788,7 +1817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "MovieConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieConfiguration.cs",
@@ -1800,7 +1829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "20241225074817_Lastinit.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241225074817_Lastinit.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\20241225074817_Lastinit.cs",
@@ -1812,7 +1841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "Soon.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Soon.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Soon.cs",
@@ -1824,7 +1853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "SerialGenre.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialGenre.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialGenre.cs",
@@ -1836,7 +1865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "SerialSubtitle.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialSubtitle.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialSubtitle.cs",
@@ -1848,7 +1877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "SoonGenreConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SoonGenreConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SoonGenreConfiguration.cs",
@@ -1860,7 +1889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "SerialGenreConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialGenreConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialGenreConfiguration.cs",
@@ -1872,7 +1901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Abstract\\Entity.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Abstract\\Entity.cs",
@@ -1884,7 +1913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "SearchController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\SearchController.cs",
@@ -1896,7 +1925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 85,
               "Title": "MarkController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\MarkController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\MarkController.cs",
@@ -1908,7 +1937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 86,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\HomeController.cs",
@@ -1920,7 +1949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 87,
               "Title": "RandomExtension.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\RandomExtension.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\RandomExtension.cs",
@@ -1932,7 +1961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "Manufacturer.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\Manufacturer.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\Manufacturer.cs",
@@ -1944,7 +1973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 91,
               "Title": "AddActorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddActorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddActorViewModel.cs",
@@ -1956,7 +1985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "ActorController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\ActorController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\ActorController.cs",
@@ -1968,7 +1997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 90,
               "Title": "SerialViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\SerialViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\SerialViewModel.cs",
@@ -1980,7 +2009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "MarkDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Concrete\\MarkDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Concrete\\MarkDto.cs",
@@ -1992,19 +2021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\appsettings.json",
-              "ToolTip": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\appsettings.json",
-              "RelativeToolTip": "Presentation\\NovaStream.Admin\\appsettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAIAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T16:45:14.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "DirectorController.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Controllers\\DirectorController.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Controllers\\DirectorController.cs",
@@ -2016,7 +2033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "GlobalCachingProvider.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\GlobalCachingProvider.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\GlobalCachingProvider.cs",
@@ -2028,7 +2045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "IMailManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\IMailManager.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\IMailManager.cs",
@@ -2040,7 +2057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\UserConfiguration.cs",
@@ -2052,7 +2069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "IUserManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\IUserManager.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\IUserManager.cs",
@@ -2064,7 +2081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\App.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\App.xaml.cs",
@@ -2076,7 +2093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "MailManager.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\MailManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\MailManager.cs",
@@ -2088,7 +2105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 104,
               "Title": "JsonWebTokenOptions.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Utilities\\JsonWebTokenOptions.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Utilities\\JsonWebTokenOptions.cs",
@@ -2100,7 +2117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "Import.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Import.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Import.cs",
@@ -2112,7 +2129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 105,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\App.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\App.xaml",
@@ -2123,7 +2140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\AssemblyInfo.cs",
@@ -2135,7 +2152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "TokenGeneratorService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\TokenGeneratorService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\TokenGeneratorService.cs",
@@ -2147,7 +2164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "Sha256EncryptorService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Services\\Sha256EncryptorService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Services\\Sha256EncryptorService.cs",
@@ -2159,7 +2176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 108,
               "Title": "AppResources.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Resources\\AppResources.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Resources\\AppResources.xaml",
@@ -2170,7 +2187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 112,
               "Title": "secrets1.arm.json",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Properties\\ServiceDependencies\\local\\secrets1.arm.json",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Properties\\ServiceDependencies\\local\\secrets1.arm.json",
@@ -2182,7 +2199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 106,
               "Title": "NovaStream.Admin.csproj",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj",
@@ -2194,7 +2211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 107,
               "Title": "DialogHostResources.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Resources\\DialogHostResources.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Resources\\DialogHostResources.xaml",
@@ -2205,7 +2222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 111,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\Bakvent\\AppData\\Roaming\\Microsoft\\UserSecrets\\01f4ea4e-47ff-4b9d-b5f8-53e2e38cf54b\\secrets.json",
               "ToolTip": "C:\\Users\\Bakvent\\AppData\\Roaming\\Microsoft\\UserSecrets\\01f4ea4e-47ff-4b9d-b5f8-53e2e38cf54b\\secrets.json",
@@ -2215,7 +2232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 110,
               "Title": "AzureClientFactoryBuilderExtensions.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\AzureClientFactoryBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\AzureClientFactoryBuilderExtensions.cs",
@@ -2227,7 +2244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 113,
               "Title": "mssql1.arm.json",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Properties\\ServiceDependencies\\local\\mssql1.arm.json",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Properties\\ServiceDependencies\\local\\mssql1.arm.json",
@@ -2239,7 +2256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 109,
               "Title": "20241219152903_initlast.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241219152903_initlast.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\20241219152903_initlast.cs",
@@ -2251,7 +2268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 221,
+              "DocumentIndex": 222,
               "Title": "20241219063636_init1.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241219063636_init1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\20241219063636_init1.cs",
@@ -2263,7 +2280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 119,
               "Title": "NovaStream.Infrastructure",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\NovaStream.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\NovaStream.Infrastructure.csproj",
@@ -2274,7 +2291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 118,
               "Title": "NovaStream.Domain",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\NovaStream.Domain.csproj",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\NovaStream.Domain.csproj",
@@ -2285,7 +2302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 117,
               "Title": "NovaStream.Application",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\NovaStream.Application.csproj",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\NovaStream.Application.csproj",
@@ -2296,7 +2313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 114,
               "Title": "NovaStream.API.csproj",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\NovaStream.API.csproj",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\NovaStream.API.csproj",
@@ -2308,7 +2325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 115,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\Bakvent\\AppData\\Roaming\\Microsoft\\UserSecrets\\c11aac92-6860-4dfd-a3c4-c812af3c514f\\secrets.json",
               "ToolTip": "C:\\Users\\Bakvent\\AppData\\Roaming\\Microsoft\\UserSecrets\\c11aac92-6860-4dfd-a3c4-c812af3c514f\\secrets.json",
@@ -2318,7 +2335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 120,
               "Title": "NovaStream.Persistence",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\NovaStream.Persistence.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\NovaStream.Persistence.csproj",
@@ -2329,7 +2346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 116,
               "Title": "NovaStream.Application.csproj",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\NovaStream.Application.csproj",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\NovaStream.Application.csproj",
@@ -2341,7 +2358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 121,
               "Title": "NovaStream.Admin",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\NovaStream.Admin.csproj",
@@ -2352,7 +2369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 122,
               "Title": "NovaStream.API",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\NovaStream.API.csproj",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\NovaStream.API.csproj",
@@ -2363,7 +2380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 123,
               "Title": "Import.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.API\\Import.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.API\\Import.cs",
@@ -2375,7 +2392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 124,
               "Title": "Subtitle.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Subtitle.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Subtitle.cs",
@@ -2387,7 +2404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 125,
               "Title": "Episode.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Episode.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Episode.cs",
@@ -2399,7 +2416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 126,
               "Title": "IEncryptorService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\IEncryptorService.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\IEncryptorService.cs",
@@ -2411,7 +2428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 127,
               "Title": "IGlobalCachingProvider.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\IGlobalCachingProvider.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\IGlobalCachingProvider.cs",
@@ -2423,7 +2440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 136,
               "Title": "AddSerialViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddSerialViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddSerialViewModel.cs",
@@ -2435,7 +2452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 128,
               "Title": "SeasonViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\SeasonViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\SeasonViewModel.cs",
@@ -2447,7 +2464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 132,
               "Title": "SeasonView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\SeasonView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\SeasonView.xaml",
@@ -2458,7 +2475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 134,
               "Title": "SeasonViewModelContent.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\SeasonViewModelContent.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\SeasonViewModelContent.cs",
@@ -2470,7 +2487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 133,
               "Title": "SerialViewModelContent.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\SerialViewModelContent.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\SerialViewModelContent.cs",
@@ -2482,7 +2499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 130,
               "Title": "EpisodeView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\EpisodeView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\EpisodeView.xaml",
@@ -2493,7 +2510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 129,
               "Title": "SeasonView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\SeasonView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\SeasonView.xaml.cs",
@@ -2505,7 +2522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 131,
               "Title": "EpisodeViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\EpisodeViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\EpisodeViewModel.cs",
@@ -2517,7 +2534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 219,
+              "DocumentIndex": 220,
               "Title": "20241124174142_last new.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241124174142_last new.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\20241124174142_last new.cs",
@@ -2529,7 +2546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 138,
               "Title": "EpisodeViewModelContent.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\EpisodeViewModelContent.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\EpisodeViewModelContent.cs",
@@ -2541,7 +2558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 135,
               "Title": "SeasonConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SeasonConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SeasonConfiguration.cs",
@@ -2553,7 +2570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 137,
               "Title": "SerialConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialConfiguration.cs",
@@ -2565,7 +2582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 140,
               "Title": "20241124165131_last.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241124165131_last.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241124165131_last.cs",
@@ -2574,7 +2591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 142,
               "Title": "EpisodeSubtitleView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\EpisodeSubtitleView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\EpisodeSubtitleView.xaml.cs",
@@ -2586,7 +2603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 141,
               "Title": "MovieSubtitleView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MovieSubtitleView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MovieSubtitleView.xaml.cs",
@@ -2598,7 +2615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 220,
+              "DocumentIndex": 221,
               "Title": "20241124165556_Last.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241124165556_Last.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\20241124165556_Last.cs",
@@ -2610,7 +2627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 139,
               "Title": "20241124165236_New.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241124165236_New.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Migrations\\20241124165236_New.cs",
@@ -2622,7 +2639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 143,
               "Title": "EpisodeSubtitleView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\EpisodeSubtitleView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\EpisodeSubtitleView.xaml",
@@ -2633,7 +2650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 144,
               "Title": "MovieSubtitleView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MovieSubtitleView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MovieSubtitleView.xaml",
@@ -2644,7 +2661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 145,
               "Title": "SubtitleConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SubtitleConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SubtitleConfiguration.cs",
@@ -2656,7 +2673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 146,
               "Title": "EpisodeConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\EpisodeConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\EpisodeConfiguration.cs",
@@ -2668,7 +2685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 147,
               "Title": "AddEpisodeSubtitleViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddEpisodeSubtitleViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddEpisodeSubtitleViewModel.cs",
@@ -2680,7 +2697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 148,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\MainViewModel.cs",
@@ -2692,7 +2709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 149,
               "Title": "MainView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MainView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MainView.xaml.cs",
@@ -2704,7 +2721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 150,
               "Title": "BaseMessageBox.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\MessageBoxes\\BaseMessageBox.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\MessageBoxes\\BaseMessageBox.cs",
@@ -2716,7 +2733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 151,
               "Title": "ErrorMessageBox.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\MessageBoxes\\ErrorMessageBox.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\MessageBoxes\\ErrorMessageBox.cs",
@@ -2728,7 +2745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 152,
               "Title": "InfoMessageBox.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\MessageBoxes\\InfoMessageBox.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\MessageBoxes\\InfoMessageBox.cs",
@@ -2740,7 +2757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 153,
               "Title": "MessageBoxType.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\MessageBoxes\\MessageBoxType.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\MessageBoxes\\MessageBoxType.cs",
@@ -2752,7 +2769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 154,
               "Title": "ProgressMessageBox.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\MessageBoxes\\ProgressMessageBox.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\MessageBoxes\\ProgressMessageBox.cs",
@@ -2764,7 +2781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 155,
               "Title": "SuccessMessageBox.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\MessageBoxes\\SuccessMessageBox.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\MessageBoxes\\SuccessMessageBox.cs",
@@ -2776,7 +2793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 156,
               "Title": "MessageBoxResources.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Resources\\MessageBoxResources.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Resources\\MessageBoxResources.xaml",
@@ -2787,7 +2804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 157,
               "Title": "MainView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MainView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MainView.xaml",
@@ -2798,7 +2815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 158,
               "Title": "MovieActorView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MovieActorView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MovieActorView.xaml",
@@ -2809,7 +2826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 159,
               "Title": "MovieView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MovieView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MovieView.xaml",
@@ -2820,7 +2837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 160,
               "Title": "ViewModelContentBase.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Abstract\\ViewModelContentBase.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Abstract\\ViewModelContentBase.cs",
@@ -2832,7 +2849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 161,
               "Title": "SerialGenreView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\SerialGenreView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\SerialGenreView.xaml",
@@ -2843,7 +2860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 162,
               "Title": "MovieActorView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MovieActorView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MovieActorView.xaml.cs",
@@ -2855,7 +2872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 163,
               "Title": "MovieSubtitleViewModelContent.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\MovieSubtitleViewModelContent.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\MovieSubtitleViewModelContent.cs",
@@ -2867,7 +2884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 164,
               "Title": "EpisodeSubtitleViewModelContent.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\EpisodeSubtitleViewModelContent.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\EpisodeSubtitleViewModelContent.cs",
@@ -2879,7 +2896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 166,
               "Title": "AddDirectorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddDirectorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddDirectorViewModel.cs",
@@ -2891,7 +2908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 165,
               "Title": "DirectorViewModelContent.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\DirectorViewModelContent.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModelContents\\Concrete\\DirectorViewModelContent.cs",
@@ -2903,7 +2920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 167,
               "Title": "NavigationMessage.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Utilities\\NavigationMessage.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Utilities\\NavigationMessage.cs",
@@ -2915,7 +2932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 168,
               "Title": "AddMovieActorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieActorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieActorViewModel.cs",
@@ -2927,7 +2944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 169,
               "Title": "20241122051031_New.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122051031_New.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122051031_New.cs",
@@ -2936,7 +2953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 170,
               "Title": "20241122045242_New.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122045242_New.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122045242_New.cs",
@@ -2945,7 +2962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 171,
               "Title": "SoonConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SoonConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SoonConfiguration.cs",
@@ -2957,7 +2974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 172,
               "Title": "20241122043950_newewew.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122043950_newewew.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122043950_newewew.cs",
@@ -2966,7 +2983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 173,
               "Title": "20241122043423_yeniii.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122043423_yeniii.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241122043423_yeniii.cs",
@@ -2975,7 +2992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 174,
               "Title": "20241121165541_YENIII.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121165541_YENIII.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121165541_YENIII.cs",
@@ -2984,7 +3001,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 174,
+              "DocumentIndex": 175,
               "Title": "20241121105316_nwwewee.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121105316_nwwewee.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121105316_nwwewee.cs",
@@ -2993,7 +3010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 175,
+              "DocumentIndex": 176,
               "Title": "SerialActorConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialActorConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialActorConfiguration.cs",
@@ -3005,7 +3022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 176,
+              "DocumentIndex": 177,
               "Title": "20241121104344_neewe.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121104344_neewe.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121104344_neewe.cs",
@@ -3014,7 +3031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 177,
+              "DocumentIndex": 178,
               "Title": "AddEpisodeViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddEpisodeViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddEpisodeViewModel.cs",
@@ -3026,7 +3043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 178,
+              "DocumentIndex": 179,
               "Title": "SerialActorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\SerialActorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\SerialActorViewModel.cs",
@@ -3038,7 +3055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 179,
+              "DocumentIndex": 180,
               "Title": "SerialGenreViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\SerialGenreViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\SerialGenreViewModel.cs",
@@ -3050,7 +3067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 180,
+              "DocumentIndex": 181,
               "Title": "MovieGenreViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\MovieGenreViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\MovieGenreViewModel.cs",
@@ -3062,7 +3079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 181,
+              "DocumentIndex": 182,
               "Title": "AddSerialGenreViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddSerialGenreViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddSerialGenreViewModel.cs",
@@ -3074,7 +3091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 182,
+              "DocumentIndex": 183,
               "Title": "AddSerialActorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddSerialActorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddSerialActorViewModel.cs",
@@ -3086,7 +3103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 184,
+              "DocumentIndex": 185,
               "Title": "AddMovieGenreViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieGenreViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\AddMovieGenreViewModel.cs",
@@ -3098,7 +3115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 185,
+              "DocumentIndex": 186,
               "Title": "MovieActorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\MovieActorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\MovieActorViewModel.cs",
@@ -3110,7 +3127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 183,
+              "DocumentIndex": 184,
               "Title": "MovieMark.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieMark.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\MovieMark.cs",
@@ -3122,7 +3139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 186,
+              "DocumentIndex": 187,
               "Title": "SerialMarkConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialMarkConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\SerialMarkConfiguration.cs",
@@ -3134,7 +3151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 187,
+              "DocumentIndex": 188,
               "Title": "MovieMarkConfiguration.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieMarkConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Data\\Configurations\\MovieMarkConfiguration.cs",
@@ -3146,7 +3163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 188,
+              "DocumentIndex": 189,
               "Title": "SerialActor.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialActor.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialActor.cs",
@@ -3158,7 +3175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 189,
+              "DocumentIndex": 190,
               "Title": "SerialMark.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialMark.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\SerialMark.cs",
@@ -3170,7 +3187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 190,
+              "DocumentIndex": 191,
               "Title": "VideoSubtitle.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\VideoSubtitle.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Entities\\Concrete\\Adapters\\VideoSubtitle.cs",
@@ -3182,7 +3199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 191,
+              "DocumentIndex": 192,
               "Title": "EditEpisodeViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\EditEpisodeViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DialogHosts\\EditEpisodeViewModel.cs",
@@ -3194,7 +3211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 192,
+              "DocumentIndex": 193,
               "Title": "20241121063159_neww.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121063159_neww.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121063159_neww.cs",
@@ -3203,7 +3220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 193,
+              "DocumentIndex": 194,
               "Title": "20241121062913_yenii.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121062913_yenii.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121062913_yenii.cs",
@@ -3212,7 +3229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 194,
+              "DocumentIndex": 195,
               "Title": "20241121062750_yenii.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121062750_yenii.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121062750_yenii.cs",
@@ -3221,7 +3238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 195,
+              "DocumentIndex": 196,
               "Title": "20241121060653_yeni.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121060653_yeni.cs",
               "ToolTip": "C:\\Users\\Bakvent\\Desktop\\LAY\u0130HE\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Migrations\\20241121060653_yeni.cs",
@@ -3230,7 +3247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 196,
+              "DocumentIndex": 197,
               "Title": "SoonGenreView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\SoonGenreView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\SoonGenreView.xaml",
@@ -3241,7 +3258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 197,
+              "DocumentIndex": 198,
               "Title": "AnimationStorage.cs",
               "DocumentMoniker": "C:\\Users\\Bakvent\\AppData\\Local\\Temp\\.vsdbgsrc\\47d2d5cad4418146ba4a6441d7ebbd0bdcb328514049c4f1845bbbaf0c35ecfd\\AnimationStorage.cs",
               "ToolTip": "C:\\Users\\Bakvent\\AppData\\Local\\Temp\\.vsdbgsrc\\47d2d5cad4418146ba4a6441d7ebbd0bdcb328514049c4f1845bbbaf0c35ecfd\\AnimationStorage.cs",
@@ -3251,7 +3268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 198,
+              "DocumentIndex": 199,
               "Title": "MovieView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\MovieView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\MovieView.xaml.cs",
@@ -3263,7 +3280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 199,
+              "DocumentIndex": 200,
               "Title": "SoonView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\SoonView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\SoonView.xaml",
@@ -3274,7 +3291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 200,
+              "DocumentIndex": 201,
               "Title": "SenderMailOptions.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Utilities\\SenderMailOptions.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Utilities\\SenderMailOptions.cs",
@@ -3286,7 +3303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 203,
+              "DocumentIndex": 204,
               "Title": "ITokenGeneratorService.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\ITokenGeneratorService.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\ITokenGeneratorService.cs",
@@ -3298,7 +3315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 202,
+              "DocumentIndex": 203,
               "Title": "UserDtoValidator.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Validators\\Dtos\\UserDtoValidator.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Validators\\Dtos\\UserDtoValidator.cs",
@@ -3310,7 +3327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 201,
+              "DocumentIndex": 202,
               "Title": "Import.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Import.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Import.cs",
@@ -3322,7 +3339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 204,
+              "DocumentIndex": 205,
               "Title": "CachingProviderBase.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Services\\CachingProviderBase.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Services\\CachingProviderBase.cs",
@@ -3334,7 +3351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 205,
+              "DocumentIndex": 206,
               "Title": "BaseMarkDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseMarkDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseMarkDto.cs",
@@ -3346,7 +3363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 206,
+              "DocumentIndex": 207,
               "Title": "BaseUserDto.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseUserDto.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Applicaton\\Dtos\\Abstract\\BaseUserDto.cs",
@@ -3358,7 +3375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 207,
+              "DocumentIndex": 208,
               "Title": "Import.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\Import.cs",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\Import.cs",
@@ -3370,7 +3387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 210,
+              "DocumentIndex": 211,
               "Title": "GenreView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\GenreView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\GenreView.xaml",
@@ -3381,7 +3398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 208,
+              "DocumentIndex": 209,
               "Title": "GenreViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\GenreViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\GenreViewModel.cs",
@@ -3393,7 +3410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 212,
+              "DocumentIndex": 213,
               "Title": "DirectorView.xaml",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\DirectorView.xaml",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\DirectorView.xaml",
@@ -3404,7 +3421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 211,
+              "DocumentIndex": 212,
               "Title": "DirectorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\DirectorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\DirectorViewModel.cs",
@@ -3416,7 +3433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 209,
+              "DocumentIndex": 210,
               "Title": "GenreView.xaml.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\Views\\GenreView.xaml.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\Views\\GenreView.xaml.cs",
@@ -3428,7 +3445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 213,
+              "DocumentIndex": 214,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -3438,7 +3455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 214,
+              "DocumentIndex": 215,
               "Title": "ActorViewModel.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Presentation\\NovaStream.Admin\\ViewModels\\ActorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\NovaStream.Admin\\ViewModels\\ActorViewModel.cs",
@@ -3450,7 +3467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 215,
+              "DocumentIndex": 216,
               "Title": "Import.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Persistence\\Import.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Persistence\\Import.cs",
@@ -3462,7 +3479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 216,
+              "DocumentIndex": 217,
               "Title": "Import.cs",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\Import.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\Import.cs",
@@ -3474,7 +3491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 217,
+              "DocumentIndex": 218,
               "Title": "NovaStream.Infrastructure.csproj",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Infrastructure\\NovaStream.Infrastructure\\NovaStream.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\NovaStream.Infrastructure\\NovaStream.Infrastructure.csproj",
@@ -3486,7 +3503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 218,
+              "DocumentIndex": 219,
               "Title": "NovaStream.Domain.csproj",
               "DocumentMoniker": "D:\\T\u0259klifl\u0259r\\LAY\u0130HE\\project\\NovaStream_Server-master\\Core\\NovaStream.Domain\\NovaStream.Domain.csproj",
               "RelativeDocumentMoniker": "Core\\NovaStream.Domain\\NovaStream.Domain.csproj",
